@@ -1,0 +1,24 @@
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.GameUI.resources
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\trash\OOP\borko\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\trash\OOP\borko\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\trash\OOP\borko\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.UI.MainForm.resources
+D:\trash\OOP\borko\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.UI.HistoryUI.resources
+E:\Study\CourseWork OOP\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+E:\Study\CourseWork OOP\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+E:\Study\CourseWork OOP\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.GameUI.resources
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.UI.HistoryUI.resources
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.UI.MainForm.resources
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+E:\Study\CourseWork OOP\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
